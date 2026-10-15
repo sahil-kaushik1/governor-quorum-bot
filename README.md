@@ -10,7 +10,7 @@ This agent detects when a proposal is created to lower the quorum and it will be
 
 - Ethereum
 - Optimism
-- BSC
+- BSC     
 - Polygon
 - Avalanche
 
