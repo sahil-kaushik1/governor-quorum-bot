@@ -13,6 +13,7 @@ This agent detects when a proposal is created to lower the quorum  and it will b
 - BSC     
 - Polygon
 - Avalanche
+- Arbitrum
 
 ## Alerts
 
