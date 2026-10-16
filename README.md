@@ -1,4 +1,4 @@
-# Governance Quorum Change Agent
+ # Governance Quorum Change Agent
 
 [Bot ID 0xb4e4...05907](https://explorer.forta.network/bot/0xb4e4c2584edab51f0c8ed56501d8974d1ba3bb798007a20ebf8a55d5f1410907)
 
