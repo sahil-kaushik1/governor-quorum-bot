@@ -13,7 +13,6 @@ This agent detects when a proposal is created to lower the quorum  and it will b
 - BSC     
 - Polygon
 - Avalanche
-- Arbitrum
 
 ## Alerts
 
@@ -24,7 +23,6 @@ This agent detects when a proposal is created to lower the quorum  and it will b
 
 ## Test Data
 Run `npm test`
-
 ## Update agent
 1. When the code is updated to the new version, run `npm run push` this will publish an image of the bot in a repository that a scan node can read from.
 2. Copy the hash the console printed out.
