@@ -10,7 +10,7 @@ import {
 } from "forta-agent";
 import { network } from "hardhat";
 import keccak256 from "keccak256";
-// import from src ;
+// import from src ;;
 export const PROPOSAL_CREATED_EVENT =
   "event ProposalCreated(uint256 proposalId, address proposer, address[] targets,  uint256[] values, string[] signatures, bytes[] calldatas, uint256 startBlock, uint256 endBlock, string description)";
 
