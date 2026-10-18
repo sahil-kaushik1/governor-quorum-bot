@@ -1,1 +1,5 @@
-
+node_modules
+dist
+forta.config.json
+publish.log
+cache/
